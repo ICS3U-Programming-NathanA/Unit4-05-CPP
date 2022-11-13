@@ -3,7 +3,7 @@
 // Created by: Nathan A
 // Date: Nov.13, 2022
 // This program asks the user for the amount of numbers they want to add up
-// it then adds up the numbers they enter and display its
+// it then adds up the numbers they enter
 
 #include <iostream>
 #include <string>
